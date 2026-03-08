@@ -92,7 +92,6 @@ skin set web (classic|slim) "<URL>" [<目标玩家>]
 
 **URL 必须有英文双引号**  目标玩家用法同上文。
 
-> [!TIP]
 >
 > 如果你用Littleskin
 >
